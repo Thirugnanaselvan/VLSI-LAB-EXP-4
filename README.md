@@ -213,5 +213,5 @@ endmodule
 OUTPUT
 ![RCA](https://github.com/Thirugnanaselvan/VLSI-LAB-EXP-4/assets/160720772/943d710e-f201-48b4-8e7f-9b0ea05991c7)
 
-RESULT
+**RESULT**
 Thus,the simulation and synthesis of SR,JK,T,D flipflops,counters by using vivado has been successfully excecuted and verified.
